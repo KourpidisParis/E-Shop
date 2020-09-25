@@ -22,7 +22,7 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="css/Styles.css" />
-    <title>Comments</title>
+    <title>Admin Panel</title>
   </head>
 
   <body>
