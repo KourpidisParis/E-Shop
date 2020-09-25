@@ -9,7 +9,7 @@ I added code in php for the eshop functionality
 Attention. The database must be set up.
 
 ## E-shop page
-![Screenshot](final_images/1.png
+![Screenshot](final_images/1.png)
 
 ## Product Page
 ![Screenshot](final_images/2.png)
