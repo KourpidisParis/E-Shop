@@ -1,8 +1,12 @@
 # E-Shop
 Simple E-shop
 
-The sell shop template was used
+The sell shop template was used.
+
 I added code in php for the eshop functionality
+
+
+Attention. The database must be set up.
 
 ## E-shop page
 ![Screenshot](final_images/1.png
