@@ -22,7 +22,7 @@ class liveCart
 		//Get data from existing json file
 		$jsondata = file_get_contents($myFile);
 		// converts json data into array
-        $arr_data = json_decode($jsondata, true);
+                $arr_data = json_decode($jsondata, true);
         
 	}
 	catch (Exception $e) {
