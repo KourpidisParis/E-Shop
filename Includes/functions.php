@@ -60,7 +60,7 @@ function addTheSameProduct($id){
 
 	foreach ($arr_data as $key => $value) {
 		if ($value['id'] == $id) {
-            $arr_data[$key]['count'] =  $value['count'] + 1;
+                $arr_data[$key]['count'] =  $value['count'] + 1;
 		}
     }
 
@@ -116,7 +116,7 @@ function getCountofProduct($id){
 
 	foreach ($arr_data as $key => $value) {
 		if ($value['id'] == $id) {
-            return $arr_data[$key]['count'];
+                   return $arr_data[$key]['count'];
 		}
     }
 }
