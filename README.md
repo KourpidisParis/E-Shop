@@ -8,6 +8,8 @@ I added code in php for the eshop functionality
 
 Attention. The database must be set up.
 
+Important files on Includes.
+
 ## E-shop page
 ![Screenshot](final_images/1.png)
 
